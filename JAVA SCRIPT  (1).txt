@@ -1,0 +1,30 @@
+JAVA SCRIPT: 
+
+Web Based Scripting Language: The process of creating and embding script in webpage
+                              is known as Web Scripting.
+Types of scripting:
+1. client side scripting 
+2. server side scripting
+
+Client side scripting is responsible for interface with in the webpage and its,
+download at client side firstly thenexecuted by Browser. Ex-
+
+Server side scripting is responsible for the completion or carring out a task at 
+server and end then seding the result to the it does not mater which browser is
+used by client.
+Ex.PHP,.net,python.
+
+Role of JS in Wed Devlopment:
+1. It gives dynamic effect and web apps in browser.
+2. JS lib in frame work such as React Angular or vue(Front end Apps). 
+3. Node JS web apps on web servers(Backend Apps).
+4. JS also used in native mobils apps as well as native Desktop Apps.
+
+Data Types in JS:
+
+1. Primited Data Types: Most of time a primitive value respresentive directly at
+   the lowest level of the language implimentation all primitive are immutable
+   (can be re-assign can't chsnge).
+    
+
+
